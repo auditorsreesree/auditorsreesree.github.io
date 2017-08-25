@@ -650,7 +650,7 @@ cite{
 /*--------------------------------*/
 
 .contact-info {
-    background-color: #ebebeb;    
+    background-color: #fff;    
 }
 
 .contact-address { width: 400px;}
@@ -680,9 +680,15 @@ cite{
 /*--------------------------------*/
 /*Feedback gform*/
 /*--------------------------------*/
+
+.gform-feedback {
+    background-color: #ebebeb;
+}
+
 .gform-container {
     text-align: center;
 }
+
 
 /*--------------------------------*/
 /*Message Form*/
